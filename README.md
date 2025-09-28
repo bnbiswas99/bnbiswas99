@@ -33,7 +33,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/👋%20Hello%2C%20World!-I'm%20Byadhanath%20Biswas-FF6B35?style=for-the-badge&logo=wave&logoColor=white" alt="Greeting"/>
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/64/000000/developer.png" width="60"/>
+      <img src="https://img.icons8.com/color/64/000000/programmer.png" width="60"/>
       <br/><br/>
       <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto;">
         <b>🎓 Currently pursuing my Final Year in Computer Science & Engineering at IUBAT International University.</b><br/>
@@ -84,25 +84,25 @@
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/💡%20Innovation-Creative%20Solutions-FF9800?style=for-the-badge&logo=lightbulb&logoColor=white" />
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/idea.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/innovation.png" width="40"/>
       <br/><sub><b>Thinking Outside the Box</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/📚%20Learning-Continuous%20Growth-2196F3?style=for-the-badge&logo=book&logoColor=white" />
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/book.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/learning.png" width="40"/>
       <br/><sub><b>Lifelong Knowledge Seeker</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🤝%20Collaboration-Team%20Spirit-4CAF50?style=for-the-badge&logo=handshake&logoColor=white" />
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/teamwork.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/collaboration.png" width="40"/>
       <br/><sub><b>Building Together</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🎯%20Impact-Meaningful%20Change-E91E63?style=for-the-badge&logo=heart&logoColor=white" />
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/heart.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/hearts.png" width="40"/>
       <br/><sub><b>Purpose-Driven Development</b></sub>
     </td>
   </tr>
