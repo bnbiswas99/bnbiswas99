@@ -24,17 +24,50 @@
 
 ---
 
-## 👋 Hello, World! I'm **Byadhanath Biswas**
-> *Final-year BSc student in Computer Science & Engineering at IUBAT. Mobile App Enthusiast | Flutter Developer.*
+<div align="center">
+
+## 👋 **Hello, World! I'm Byadhanath Biswas** 🚀
+
+### 🎓 **Academic Background**
+<img src="https://img.shields.io/badge/🎓%20Final--Year%20Student-Computer%20Science%20%26%20Engineering-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/🏫%20IUBAT%20University-International%20University-FF6B35?style=for-the-badge&logo=university&logoColor=white" alt="University"/>
+
+### 💼 **Professional Identity**
+<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Enthusiast-Cross--Platform%20Development-4CAF50?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Developer"/>
+<img src="https://img.shields.io/badge/🦋%20Flutter%20Developer-Dart%20%26%20Widget%20Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+
+</div>
 
 ---
 
-## 🎯 **Career Objective**
-> 🚀 To become a versatile mobile developer, using creativity and technical skill to deliver beautiful, efficient apps. I am dedicated to continuous learning, teamwork, and making a positive impact with every project.
+## 🎯 **Career Vision & Objectives**
+
+<div align="center">
+
+### 🚀 **Mission Statement**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯%20Vision-Versatile%20Mobile%20Developer-9C27B0?style=for-the-badge&logo=target&logoColor=white" alt="Vision"/>
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/64/000000/goal.png" width="50"/>
+      <br/><br/>
+      <sub><b>"To become a versatile mobile developer, combining creativity with technical excellence to deliver beautiful, efficient applications that make a meaningful impact in users' lives."</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🌟 **Core Values & Commitment**
+<img src="https://img.shields.io/badge/💡%20Innovation-Creative%20Problem%20Solving-FF9800?style=flat-square&logo=lightbulb&logoColor=white" />
+<img src="https://img.shields.io/badge/📚%20Continuous%20Learning-Lifelong%20Growth-2196F3?style=flat-square&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/🤝%20Teamwork-Collaborative%20Spirit-4CAF50?style=flat-square&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯%20Impact%20Driven-Meaningful%20Solutions-E91E63?style=flat-square&logo=heart&logoColor=white" />
+
+</div>
 
 ---
 
-## ⚡ **Skills & Technologies**
+## ⚡ **Technical Skills & Technologies**
 
 <table>
   <tr>
@@ -236,7 +269,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/📈%20Financial%20Markets-Investment%20Analysis-4CAF50?style=for-the-badge&logo=tradingview&logoColor=white" alt="Finance"/>
       <br/>
-      <img src="https://img.icons8.com/fluency/48/000000/stock-market.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/financial-growth-analysis.png" width="40"/>
       <br/><sub><b>Market Research & Investment Strategies</b></sub>
     </td>
   </tr>
@@ -256,7 +289,7 @@
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:biswasbri9@gmail.com"><img src="https://img.shields.io/badge/Email-biswasbri9@gmail.com-blue?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:biswasbn99@gmail.com"><img src="https://img.shields.io/badge/Email-biswasbn99@gmail.com-blue?logo=gmail&logoColor=white" /></a>
   <a href="tel:+8801765156235"><img src="https://img.shields.io/badge/Phone-%2B8801765156235-green?logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Dhaka-red?logo=google-maps&logoColor=white" />
