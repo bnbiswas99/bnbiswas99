@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Provider-%23007ACC.svg?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-%23FF5722.svg?logo=flutter&logoColor=white" />
 
----
+
 
 <div align="center">
 
@@ -37,7 +37,7 @@
       <br/><br/>
       <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto;">
         <b>🎓 Currently pursuing my Final Year in Computer Science & Engineering at IUBAT International University.</b><br/>
-        I'm a passionate <b>� Mobile App Enthusiast</b> and dedicated <b>🦋 Flutter Developer</b>, driven by the endless possibilities of cross-platform development. My journey in technology is fueled by curiosity, creativity, and a commitment to crafting seamless digital experiences.
+        I'm a passionate <b>� Mobile App Enthusiast</b> and dedicated <b>🦋 Flutter Developer</b>, driven by the endless possibilities of cross-platform development. My journey in technology is fueled by curiosity, creativity, and a <br> commitment to crafting seamless digital experiences.
       </p>
     </td>
   </tr>
@@ -57,7 +57,7 @@
 
 </div>
 
----
+
 
 ## 🎯 **Career Vision & Life Philosophy**
 
@@ -115,7 +115,7 @@
 
 </div>
 
----
+
 
 ## ⚡ **Technical Skills & Technologies**
 
@@ -169,7 +169,7 @@
   <li>🔐 <strong>Cybersecurity Basics</strong></li>
 </ul>
 
----
+
 
 ## 🏆 **Certifications & Training**
 
@@ -248,7 +248,7 @@
   <img src="https://img.shields.io/badge/Specialization-Mobile%20%26%20Web%20Development-green?style=for-the-badge&logo=code&logoColor=white" />
 </div>
 
----
+
 
 ## 🌐 **Languages & Communication**
 
@@ -277,7 +277,7 @@
 
 </div>
 
----
+
 
 ## 🎨 **Hobbies & Personal Interests**
 
@@ -334,7 +334,7 @@
 
 </div>
 
----
+
 
 ## 📫 **Contact Me**
 
@@ -345,7 +345,7 @@
   <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Dhaka-red?logo=google-maps&logoColor=white" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
