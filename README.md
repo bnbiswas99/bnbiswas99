@@ -269,7 +269,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/📈%20Financial%20Markets-Investment%20Analysis-4CAF50?style=for-the-badge&logo=tradingview&logoColor=white" alt="Finance"/>
       <br/>
-      <img src="https://img.icons8.com/color/48/000000/financial-growth-analysis.png" width="40"/>
+      <img src="https://img.icons8.com/fluency/48/000000/graph.png" width="40"/>
       <br/><sub><b>Market Research & Investment Strategies</b></sub>
     </td>
   </tr>
