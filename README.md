@@ -33,7 +33,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/👋%20Hello%2C%20World!-I'm%20Byadhanath%20Biswas-FF6B35?style=for-the-badge&logo=wave&logoColor=white" alt="Greeting"/>
       <br/><br/>
-      <img src="https://img.icons8.com/color/64/000000/programmer.png" width="60"/>
+      <img src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-developer-computer-photo3ideastudio-flat-photo3ideastudio.png" width="60"/>
       <br/><br/>
       <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto;">
         <b>🎓 Currently pursuing my Final Year in Computer Science & Engineering at IUBAT International University.</b><br/>
