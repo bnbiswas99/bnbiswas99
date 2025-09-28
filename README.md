@@ -26,42 +26,92 @@
 
 <div align="center">
 
-## 👋 **Hello, World! I'm Byadhanath Biswas** 🚀
+## 🌟 **Welcome to My Digital Universe!** 🚀
 
-### 🎓 **Academic Background**
-<img src="https://img.shields.io/badge/🎓%20Final--Year%20Student-Computer%20Science%20%26%20Engineering-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
-<img src="https://img.shields.io/badge/🏫%20IUBAT%20University-International%20University-FF6B35?style=for-the-badge&logo=university&logoColor=white" alt="University"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👋%20Hello%2C%20World!-I'm%20Byadhanath%20Biswas-FF6B35?style=for-the-badge&logo=wave&logoColor=white" alt="Greeting"/>
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/64/000000/developer.png" width="60"/>
+      <br/><br/>
+      <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto;">
+        <b>🎓 Currently pursuing my Final Year in Computer Science & Engineering at IUBAT International University.</b><br/>
+        I'm a passionate <b>� Mobile App Enthusiast</b> and dedicated <b>🦋 Flutter Developer</b>, driven by the endless possibilities of cross-platform development. My journey in technology is fueled by curiosity, creativity, and a commitment to crafting seamless digital experiences.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 💼 **Professional Identity**
-<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Enthusiast-Cross--Platform%20Development-4CAF50?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Developer"/>
-<img src="https://img.shields.io/badge/🦋%20Flutter%20Developer-Dart%20%26%20Widget%20Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+### � **Academic Excellence & Professional Growth**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/🎓%20Education-Computer%20Science%20%26%20Engineering-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/�️%20Institution-IUBAT%20International%20University-9C27B0?style=for-the-badge&logo=university&logoColor=white" alt="University"/>
+</div>
+
+### 💼 **Technical Identity & Expertise**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/📱%20Specialization-Cross--Platform%20Mobile%20Development-4CAF50?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Developer"/>
+  <img src="https://img.shields.io/badge/🦋%20Primary%20Stack-Flutter%20%26%20Dart%20Ecosystem-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</div>
 
 </div>
 
 ---
 
-## 🎯 **Career Vision & Objectives**
+## 🎯 **Career Vision & Life Philosophy**
 
 <div align="center">
 
 ### 🚀 **Mission Statement**
-<table>
+<table style="border: 2px solid #e1e4e8; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯%20Vision-Versatile%20Mobile%20Developer-9C27B0?style=for-the-badge&logo=target&logoColor=white" alt="Vision"/>
+    <td align="center" style="padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+      <img src="https://img.shields.io/badge/🎯%20Life%20Vision-Versatile%20Mobile%20Developer-ffffff?style=for-the-badge&logo=target&logoColor=667eea" alt="Vision"/>
       <br/><br/>
-      <img src="https://img.icons8.com/fluency/64/000000/goal.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/80/000000/goal.png" width="70"/>
       <br/><br/>
-      <sub><b>"To become a versatile mobile developer, combining creativity with technical excellence to deliver beautiful, efficient applications that make a meaningful impact in users' lives."</b></sub>
+      <p style="color: white; font-size: 18px; line-height: 1.8; max-width: 500px; margin: 0 auto; font-weight: 500;">
+        <b>"To become a versatile mobile developer who bridges creativity with technical excellence, delivering beautiful and efficient applications that make a meaningful impact in users' lives and contribute positively to the digital ecosystem."</b>
+      </p>
     </td>
   </tr>
 </table>
 
-### 🌟 **Core Values & Commitment**
-<img src="https://img.shields.io/badge/💡%20Innovation-Creative%20Problem%20Solving-FF9800?style=flat-square&logo=lightbulb&logoColor=white" />
-<img src="https://img.shields.io/badge/📚%20Continuous%20Learning-Lifelong%20Growth-2196F3?style=flat-square&logo=book&logoColor=white" />
-<img src="https://img.shields.io/badge/🤝%20Teamwork-Collaborative%20Spirit-4CAF50?style=flat-square&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/🎯%20Impact%20Driven-Meaningful%20Solutions-E91E63?style=flat-square&logo=heart&logoColor=white" />
+### 🌟 **Core Values & Professional Commitment**
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💡%20Innovation-Creative%20Solutions-FF9800?style=for-the-badge&logo=lightbulb&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/48/000000/idea.png" width="40"/>
+      <br/><sub><b>Thinking Outside the Box</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📚%20Learning-Continuous%20Growth-2196F3?style=for-the-badge&logo=book&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/48/000000/book.png" width="40"/>
+      <br/><sub><b>Lifelong Knowledge Seeker</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🤝%20Collaboration-Team%20Spirit-4CAF50?style=for-the-badge&logo=handshake&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/48/000000/teamwork.png" width="40"/>
+      <br/><sub><b>Building Together</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🎯%20Impact-Meaningful%20Change-E91E63?style=for-the-badge&logo=heart&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.icons8.com/fluency/48/000000/heart.png" width="40"/>
+      <br/><sub><b>Purpose-Driven Development</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 📈 **Personal Development Journey**
+<p align="center" style="font-size: 16px; line-height: 1.7; max-width: 700px; margin: 20px auto; color: #586069;">
+  My journey in technology is more than just coding—it's about <b>continuous evolution</b>, <b>meaningful connections</b>, and <b>creating digital solutions</b> that solve real-world problems. I believe in the power of <b>collaborative innovation</b> and am committed to contributing to projects that make a positive difference in people's lives while constantly expanding my technical horizons.
+</p>
 
 </div>
 
