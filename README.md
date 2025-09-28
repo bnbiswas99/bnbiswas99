@@ -167,21 +167,88 @@
 
 ---
 
-## 🌐 **Languages**
+## 🌐 **Languages & Communication**
 
-| English | Bengali |
-|:-------:|:-------:|
-| 🇬🇧     | 🇧🇩     |
+<div align="center">
+
+### 🗣️ **Language Proficiency**
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🇺🇸%20English-Fluent-4CAF50?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Language"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Speaking-Advanced-2196F3?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Writing-Advanced-2196F3?style=flat-square&logoColor=white" />
+      <br/><sub><b>🎯 Professional & Academic Communication</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🇧🇩%20Bengali-Native-FF9800?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Bengali Language"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Speaking-Native-4CAF50?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Writing-Native-4CAF50?style=flat-square&logoColor=white" />
+      <br/><sub><b>� Mother Tongue & Cultural Communication</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🎨 **Hobbies & Interests**
+## 🎨 **Hobbies & Personal Interests**
+
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/book.png" width="30"/> Reading Fiction
-  <img src="https://img.icons8.com/color/48/000000/headphones.png" width="30"/> Audiobooks
-  <img src="https://img.icons8.com/color/48/000000/journal.png" width="30"/> Journaling
-  <img src="https://img.icons8.com/color/48/000000/yacht.png" width="30"/> Recreational Boating
-  <img src="https://img.icons8.com/color/48/000000/stocks.png" width="30"/> Financial Markets
+
+### 📚 **Intellectual Pursuits**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/📖%20Reading%20Fiction-Literature%20Enthusiast-8E24AA?style=for-the-badge&logo=bookstack&logoColor=white" alt="Reading"/>
+      <br/>
+      <img src="https://img.icons8.com/fluency/48/000000/book.png" width="40"/>
+      <br/><sub><b>Fantasy, Sci-Fi & Contemporary Fiction</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🎧%20Audiobooks-Digital%20Learning-FF5722?style=for-the-badge&logo=spotify&logoColor=white" alt="Audiobooks"/>
+      <br/>
+      <img src="https://img.icons8.com/fluency/48/000000/headphones.png" width="40"/>
+      <br/><sub><b>Self-Development & Technical Content</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/✍️%20Journaling-Creative%20Writing-607D8B?style=for-the-badge&logo=markdown&logoColor=white" alt="Journaling"/>
+      <br/>
+      <img src="https://img.icons8.com/fluency/48/000000/journal.png" width="40"/>
+      <br/><sub><b>Personal Growth & Reflection</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🌊 **Lifestyle & Recreation**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/⛵%20Recreational%20Boating-Water%20Sports-00BCD4?style=for-the-badge&logo=anchor&logoColor=white" alt="Boating"/>
+      <br/>
+      <img src="https://img.icons8.com/fluency/48/000000/yacht.png" width="40"/>
+      <br/><sub><b>Weekend Water Adventures & Relaxation</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/📈%20Financial%20Markets-Investment%20Analysis-4CAF50?style=for-the-badge&logo=tradingview&logoColor=white" alt="Finance"/>
+      <br/>
+      <img src="https://img.icons8.com/fluency/48/000000/stock-market.png" width="40"/>
+      <br/><sub><b>Market Research & Investment Strategies</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🎯 **Interest Summary**
+<div align="center">
+  <img src="https://img.shields.io/badge/Personality-Creative%20%26%20Analytical-9C27B0?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning%20Style-Visual%20%26%20Auditory-FF9800?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus%20Areas-Technology%20%26%20Finance-2196F3?style=for-the-badge&logo=target&logoColor=white" />
+</div>
+
 </div>
 
 ---
@@ -201,5 +268,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </p>
 
-> <p align="center"><b>Let's build something amazing together! 🚀</b></p>< ! - -   F o r c e   r e f r e s h   - - >  
+> <p align="center"><b>Let's build something amazing together! 🚀</b></p>< ! - -   F o r c e   r e f r e s h   - - > 
+ 
  
